@@ -1,6 +1,9 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "Concurrency Number"
+msgstr "并发连接数
+
 msgid "Domestic Routes"
 msgstr "国内路由"
 
@@ -21,6 +24,9 @@ msgstr "接口名称"
 
 msgid "Local Subnet"
 msgstr "本地子网"
+
+msgid "Must be the same value with server"
+msgstr "必须与服务端值相同"
 
 msgid "NOT RUNNING"
 msgstr "未运行"
